@@ -1,0 +1,14 @@
+.currentTask:hover {
+  border: 1px solid #000000;
+  cursor: default;
+}
+
+.closeIcon {
+  cursor: pointer;
+}
+
+.closeIcon:hover {
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+}
